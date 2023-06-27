@@ -1,3 +1,7 @@
+{/*
+Given an integer x, return true if x is a palindrome, and false otherwise.
+*/}
+
 function palindrome(x){
     if(x < 0) return false
 
@@ -8,4 +12,6 @@ function palindrome(x){
 }
 
 palindrome(121)
+
+
 
