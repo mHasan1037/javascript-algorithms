@@ -22,3 +22,8 @@ function jewelsStones(jewels, stones){
 }
 
 jewelsStones(jewels, stones)
+
+
+
+
+
